@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Alexander Wolodarky's github projects
 
-You can use the [editor on GitHub](https://github.com/shiitman/shiitman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Crypto Volatility Watcher
+Observe and compare the exchange rates of different cryptocurrencies to optimize your portfolio. Relative price fluctuations can be displayed on the same graph.
+[http://shiitman.github.io/cryvowo/](http://shiitman.github.io/cryvowo/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Masks and comics
+Simple canvas-ased image editor, which allows to add masks,captions and speech bubbles to image. 
+[http://shiitman.github.io/vectorbrush/](http://shiitman.github.io/vectorbrush/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shiitman/shiitman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Game of red buttons
+Nuclear war simulator, inpired by Trump-Kim Jong Un confrontation. Press the red button before your enemy does. But remember: bigger button work better!  
+[http://shiitman.github.io/gameofredbuttons/](http://shiitman.github.io/gameofredbuttons/)
